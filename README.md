@@ -20,5 +20,5 @@ the dataset is private, owned by the university of milan, via the Eikon database
 * Danske
 * Swedbank
 
-
+the loaded R code returns an adjacency matrix, the corresponding network was obtained using Gephi.
 
